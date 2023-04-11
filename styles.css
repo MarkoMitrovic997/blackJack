@@ -1,0 +1,33 @@
+body{
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: goldenrod;
+    
+    font-size: 90px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 60px;
+    color: white; 
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    width: 150px;
+    background-color: goldenrod;
+    color: green;
+    height: 55px;
+    width: 550px;
+    border: none;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
